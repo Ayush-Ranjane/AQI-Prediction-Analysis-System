@@ -1,7 +1,5 @@
 data/raw/
 *.csv
 .env
-models/
-*.pkl
-__pycache__/
+clear__pycache__/
 .ipynb_checkpoints/
