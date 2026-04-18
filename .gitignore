@@ -3,3 +3,5 @@ data/raw/
 .env
 models/
 *.pkl
+__pycache__/
+.ipynb_checkpoints/
