@@ -1,0 +1,5 @@
+data/raw/
+*.csv
+.env
+models/
+*.pkl
