@@ -5,10 +5,10 @@ import numpy as np
 app = Flask(__name__)
 
 # Load all models
-rf = pickle.load(open('../Models/rf_model.pkl', 'rb'))
-xgb = pickle.load(open('../Models/xgb_model.pkl', 'rb'))
-lr = pickle.load(open('../Models/lr_model.pkl', 'rb'))
-scaler = pickle.load(open('../Models/scaler.pkl', 'rb'))
+rf = pickle.load(open('Models/rf_model.pkl', 'rb'))
+xgb = pickle.load(open('Models/xgb_model.pkl', 'rb'))
+lr = pickle.load(open('Models/lr_model.pkl', 'rb'))
+scaler = pickle.load(open('Models/scaler.pkl', 'rb'))
 
 def get_aqi_category(aqi):
     if aqi <= 50:
