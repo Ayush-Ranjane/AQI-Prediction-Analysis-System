@@ -1,4 +1,4 @@
-# 🌬️ [ADD PROJECT NAME HERE]
+# 🌬️ AQI Prediction Analysis System
 
 > **Empowering Environmental Awareness with AI-Driven Air Quality Forecasting.**
 
@@ -22,7 +22,7 @@ By analyzing the concentration of key pollutants (PM2.5, PM10, NO2, CO, etc.), t
 
 | Landing & Input Dashboard | Real-time Prediction Output |
 | :--- | :--- |
-| ![Dashboard Placeholder](assets\dash.png) | ![Results Placeholder](assets\output.png) |
+| ![Dashboard Placeholder](\assets\dash.png) | ![Results Placeholder](\assets\output.png) |
 
 ---
 
