@@ -1,4 +1,4 @@
-# 🌬️ [ADD PROJECT NAME HERE]
+# 🌬️ AQI Prediction & Analysis System
 
 > **Empowering Environmental Awareness with AI-Driven Air Quality Forecasting.**
 
@@ -18,11 +18,10 @@ By analyzing the concentration of key pollutants (PM2.5, PM10, NO2, CO, etc.), t
 ---
 
 ### 📸 Demo / Screenshots
-*Experience the sleek, glassmorphic interface designed for clarity and speed.*
 
 | Landing & Input Dashboard | Real-time Prediction Output |
 | :--- | :--- |
-| ![Dashboard Placeholder](assets\dash.png) | ![Results Placeholder](assets\output.png) |
+| ![Dashboard Screenshot](assets/dash.png) | ![Prediction Result Screenshot](assets/output.png) |
 
 ---
 
@@ -173,7 +172,7 @@ Visit `http://127.0.0.1:5000` in your browser to interact with the application.
 ---
 
 ### 👤 Author / Contact
-**[ADD YOUR NAME HERE]**
+**Ayush Ranjane**
 - **LinkedIn:** https://www.linkedin.com/in/ayush-ranjane-61051b303/
 - **Portfolio:** https://portfolio-seven-beta-vt5k5cpfg7.vercel.app/
 - **Email:** ayushranjane@gmail.com
